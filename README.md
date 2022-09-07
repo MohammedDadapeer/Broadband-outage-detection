@@ -23,7 +23,7 @@ broadband_type_8 : 'ADSL 1',
 broadband_type_2 : 'ADSL 2',
 broadband_type_6 : 'ADSL 2+',
 broadband_type_7 : 'Cable',
-broadband_type_4 : 'Fiber 1',
+broadband_type_4 : 'Fiber 1'
 broadband_type_9 : 'BPL',
 broadband_type_3 : 'Fiber 2',
 broadband_type_10 : 'Fiber High Speed',
