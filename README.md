@@ -4,7 +4,7 @@ India is seeing an explosion of new competitors in the Broadband space. 'India B
 About Data:
 There are 7 CSV files provided to us, they are described below:
 
-● train_data.csv: It has a unique event id for each observation of the outage_duration in a particular area_code
+● train_data.csv: It has a unique event id for each observation of the outage_duration in a particular area_code.
 
 ● test_data.csv: Similar to the train dataset, we are provided with an id and an area_code, we are expected to predict the outage_duration for each of the records. (This will be provided to you later on 4th July)
 
@@ -61,4 +61,4 @@ The operations team at ‘India Broadband’ has asked you the following questio
 ● Any other recommendations to improve the detection of outage durations.
 
 Evaluation Metric:
-The evaluation metric used for this hackathon would be the F1 Macro Average
+The evaluation metric used for this hackathon would be the F1 Macro Average.
